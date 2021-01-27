@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1611730521",
+        "cacheTag": "1611733453",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -44,12 +44,12 @@ var overviewerConfig = {
             "name": "Minecraft with Friends",
             "zoomLevels": 8,
             "defaultZoom": 1,
-            "maxZoom": 8,
+            "maxZoom": 6,
             "path": "world",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1611729763,
+            "last_rendertime": 1611732177,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
